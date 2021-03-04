@@ -1,5 +1,5 @@
 ---
-title: Mysql Mgr模块研究之孟子协议实现：xcom模块
+title: Mysql-mgr-选主优化
 categories:
 - distributed system
 tags: 
